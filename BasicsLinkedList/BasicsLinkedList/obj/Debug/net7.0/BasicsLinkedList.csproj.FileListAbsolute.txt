@@ -1,0 +1,30 @@
+C:\Users\Decagon\source\repos\BasicsLinkedList\BasicsLinkedList\bin\Debug\net7.0\BasicsLinkedList.exe
+C:\Users\Decagon\source\repos\BasicsLinkedList\BasicsLinkedList\bin\Debug\net7.0\BasicsLinkedList.deps.json
+C:\Users\Decagon\source\repos\BasicsLinkedList\BasicsLinkedList\bin\Debug\net7.0\BasicsLinkedList.runtimeconfig.json
+C:\Users\Decagon\source\repos\BasicsLinkedList\BasicsLinkedList\bin\Debug\net7.0\BasicsLinkedList.dll
+C:\Users\Decagon\source\repos\BasicsLinkedList\BasicsLinkedList\bin\Debug\net7.0\BasicsLinkedList.pdb
+C:\Users\Decagon\source\repos\BasicsLinkedList\BasicsLinkedList\obj\Debug\net7.0\BasicsLinkedList.csproj.AssemblyReference.cache
+C:\Users\Decagon\source\repos\BasicsLinkedList\BasicsLinkedList\obj\Debug\net7.0\BasicsLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\source\repos\BasicsLinkedList\BasicsLinkedList\obj\Debug\net7.0\BasicsLinkedList.AssemblyInfoInputs.cache
+C:\Users\Decagon\source\repos\BasicsLinkedList\BasicsLinkedList\obj\Debug\net7.0\BasicsLinkedList.AssemblyInfo.cs
+C:\Users\Decagon\source\repos\BasicsLinkedList\BasicsLinkedList\obj\Debug\net7.0\BasicsLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\source\repos\BasicsLinkedList\BasicsLinkedList\obj\Debug\net7.0\BasicsLinkedList.dll
+C:\Users\Decagon\source\repos\BasicsLinkedList\BasicsLinkedList\obj\Debug\net7.0\refint\BasicsLinkedList.dll
+C:\Users\Decagon\source\repos\BasicsLinkedList\BasicsLinkedList\obj\Debug\net7.0\BasicsLinkedList.pdb
+C:\Users\Decagon\source\repos\BasicsLinkedList\BasicsLinkedList\obj\Debug\net7.0\BasicsLinkedList.genruntimeconfig.cache
+C:\Users\Decagon\source\repos\BasicsLinkedList\BasicsLinkedList\obj\Debug\net7.0\ref\BasicsLinkedList.dll
+C:\Users\Decagon\Desktop\Decagon Task\week-2-imadetech1\BasicsLinkedList\BasicsLinkedList\bin\Debug\net7.0\BasicsLinkedList.exe
+C:\Users\Decagon\Desktop\Decagon Task\week-2-imadetech1\BasicsLinkedList\BasicsLinkedList\bin\Debug\net7.0\BasicsLinkedList.deps.json
+C:\Users\Decagon\Desktop\Decagon Task\week-2-imadetech1\BasicsLinkedList\BasicsLinkedList\bin\Debug\net7.0\BasicsLinkedList.runtimeconfig.json
+C:\Users\Decagon\Desktop\Decagon Task\week-2-imadetech1\BasicsLinkedList\BasicsLinkedList\bin\Debug\net7.0\BasicsLinkedList.dll
+C:\Users\Decagon\Desktop\Decagon Task\week-2-imadetech1\BasicsLinkedList\BasicsLinkedList\bin\Debug\net7.0\BasicsLinkedList.pdb
+C:\Users\Decagon\Desktop\Decagon Task\week-2-imadetech1\BasicsLinkedList\BasicsLinkedList\obj\Debug\net7.0\BasicsLinkedList.csproj.AssemblyReference.cache
+C:\Users\Decagon\Desktop\Decagon Task\week-2-imadetech1\BasicsLinkedList\BasicsLinkedList\obj\Debug\net7.0\BasicsLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\Desktop\Decagon Task\week-2-imadetech1\BasicsLinkedList\BasicsLinkedList\obj\Debug\net7.0\BasicsLinkedList.AssemblyInfoInputs.cache
+C:\Users\Decagon\Desktop\Decagon Task\week-2-imadetech1\BasicsLinkedList\BasicsLinkedList\obj\Debug\net7.0\BasicsLinkedList.AssemblyInfo.cs
+C:\Users\Decagon\Desktop\Decagon Task\week-2-imadetech1\BasicsLinkedList\BasicsLinkedList\obj\Debug\net7.0\BasicsLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Desktop\Decagon Task\week-2-imadetech1\BasicsLinkedList\BasicsLinkedList\obj\Debug\net7.0\BasicsLinkedList.dll
+C:\Users\Decagon\Desktop\Decagon Task\week-2-imadetech1\BasicsLinkedList\BasicsLinkedList\obj\Debug\net7.0\refint\BasicsLinkedList.dll
+C:\Users\Decagon\Desktop\Decagon Task\week-2-imadetech1\BasicsLinkedList\BasicsLinkedList\obj\Debug\net7.0\BasicsLinkedList.pdb
+C:\Users\Decagon\Desktop\Decagon Task\week-2-imadetech1\BasicsLinkedList\BasicsLinkedList\obj\Debug\net7.0\BasicsLinkedList.genruntimeconfig.cache
+C:\Users\Decagon\Desktop\Decagon Task\week-2-imadetech1\BasicsLinkedList\BasicsLinkedList\obj\Debug\net7.0\ref\BasicsLinkedList.dll
